@@ -1,4 +1,13 @@
-﻿中身
+﻿「RTC::CameraImage <-> cv::Mat」，「cv::Mat <-> mwArray」を「>>」および「<<」演算子で相互変換するライブラリ
+
+動作環境
+・Windows 7 64bit
+・Visual Studio 2010 Professional
+・OpenCV 2.4.5
+・OpenRTM 1.1 64bit
+・MATLAB Compiler Runtime R2012b (8.0)
+
+中身
 ・ヘッダファイル
 --convert_template.h
 ・ソースファイル
@@ -11,15 +20,6 @@
 --libconvert100d.dll
 --libconvert100.exp
 --libconvert100.lib
-
-
-動作環境
-・Windows 7 64bit
-・Visual Studio 2010 Professional
-・OpenCV 2.4.5
-・OpenRTM 1.1 64bit
-・MATLAB Compiler Runtime R2012b (8.0)
-
 
 使い方
 1. convert_template.hへのインクルードパスを設定する
