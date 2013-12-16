@@ -1,35 +1,35 @@
-’†g
-Eƒwƒbƒ_ƒtƒ@ƒCƒ‹
+ï»¿ä¸­èº«
+ãƒ»ãƒ˜ãƒƒãƒ€ãƒ•ã‚¡ã‚¤ãƒ«
 --convert_template.h
-Eƒ\[ƒXƒtƒ@ƒCƒ‹
+ãƒ»ã‚½ãƒ¼ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«
 --convert_template.cpp
-ERelease—p
+ãƒ»Releaseç”¨
 --libconvert100.dll
 --libconvert100.exp
 --libconvert100.lib
-EDebug—p
+ãƒ»Debugç”¨
 --libconvert100d.dll
 --libconvert100.exp
 --libconvert100.lib
 
 
-“®ìŠÂ‹«
-EWindows 7 64bit
-EVisual Studio 2010 Professional
-EOpenCV 2.4.5
-EOpenRTM 1.1 64bit
-EMATLAB Compiler Runtime R2012b (8.0)
+å‹•ä½œç’°å¢ƒ
+ãƒ»Windows 7 64bit
+ãƒ»Visual Studio 2010 Professional
+ãƒ»OpenCV 2.4.5
+ãƒ»OpenRTM 1.1 64bit
+ãƒ»MATLAB Compiler Runtime R2012b (8.0)
 
 
-g‚¢•û
-1. convert_template.h‚Ö‚ÌƒCƒ“ƒNƒ‹[ƒhƒpƒX‚ğİ’è‚·‚é
-2. libconvert100d.lib‚Ü‚½‚Ílibconvert100.lib‚Ö‚Ìƒ‰ƒCƒuƒ‰ƒŠƒpƒX‚ğİ’è‚·‚é
-3. g—p‚µ‚½‚¢ƒ\[ƒXƒR[ƒhƒtƒ@ƒCƒ‹“à‚Åconvert_template.h‚ğƒCƒ“ƒNƒ‹[ƒh‚·‚é
+ä½¿ã„æ–¹
+1. convert_template.hã¸ã®ã‚¤ãƒ³ã‚¯ãƒ«ãƒ¼ãƒ‰ãƒ‘ã‚¹ã‚’è¨­å®šã™ã‚‹
+2. libconvert100d.libã¾ãŸã¯libconvert100.libã¸ã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ‘ã‚¹ã‚’è¨­å®šã™ã‚‹
+3. ä½¿ç”¨ã—ãŸã„ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ãƒ•ã‚¡ã‚¤ãƒ«å†…ã§convert_template.hã‚’ã‚¤ãƒ³ã‚¯ãƒ«ãƒ¼ãƒ‰ã™ã‚‹
 
-*Debug‚Ìê‡
-4. libconvert100d.lib‚ÆƒŠƒ“ƒN‚·‚é
-5. Àsƒtƒ@ƒCƒ‹‚Æ“¯‚¶ƒtƒHƒ‹ƒ_‚Élibconvert100d.dllClibconvert100d.exp‚ğƒRƒs[‚·‚é
+*Debugã®å ´åˆ
+4. libconvert100d.libã¨ãƒªãƒ³ã‚¯ã™ã‚‹
+5. å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã¨åŒã˜ãƒ•ã‚©ãƒ«ãƒ€ã«libconvert100d.dllï¼Œlibconvert100d.expã‚’ã‚³ãƒ”ãƒ¼ã™ã‚‹
 
-*Release‚Ìê‡
-4. libconvert100.lib‚ÆƒŠƒ“ƒN‚·‚é
-5. Àsƒtƒ@ƒCƒ‹‚Æ“¯‚¶ƒtƒHƒ‹ƒ_‚Élibconvert100.dllClibconvert100.exp‚ğƒRƒs[‚·‚é
+*Releaseã®å ´åˆ
+4. libconvert100.libã¨ãƒªãƒ³ã‚¯ã™ã‚‹
+5. å®Ÿè¡Œãƒ•ã‚¡ã‚¤ãƒ«ã¨åŒã˜ãƒ•ã‚©ãƒ«ãƒ€ã«libconvert100.dllï¼Œlibconvert100.expã‚’ã‚³ãƒ”ãƒ¼ã™ã‚‹
